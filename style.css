@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.attribution {
+     font-size: 11px; text-align: center;
+     }
+
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+ }
+
+img{
+    border-radius: 50%;
+
+}
+
+.container{
+    width: 400px;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    font-family: inter;
+    margin-top: 80px;
+}
+
+h1{
+    font-weight: 700;
+}
+
+p{
+    font-weight: 400;
+}
+
+fieldset{
+    margin-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+fieldset:hover{
+    background-color: rgb(172, 236, 43);
+}
+
+h2{
+    color: rgb(172, 236, 43);
+    font-weight: 600;
+}
